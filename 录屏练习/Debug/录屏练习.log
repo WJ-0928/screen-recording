@@ -1,0 +1,6 @@
+﻿  智能指针.cpp
+c:\users\admin\documents\cpp\比特上课代码\录屏练习\录屏练习\string\string\智能指针.cpp(134): error C3861: “_ptr”: 找不到标识符
+  c:\users\admin\documents\cpp\比特上课代码\录屏练习\录屏练习\string\string\智能指针.cpp(176): note: 参见对正在编译的 类 模板 实例化 "bite::auto_ptr<T>" 的引用
+c:\users\admin\documents\cpp\比特上课代码\录屏练习\录屏练习\string\string\智能指针.cpp(137): error C3861: “_ptr”: 找不到标识符
+c:\users\admin\documents\cpp\比特上课代码\录屏练习\录屏练习\string\string\智能指针.cpp(142): error C3861: “_ptr”: 找不到标识符
+c:\users\admin\documents\cpp\比特上课代码\录屏练习\录屏练习\string\string\智能指针.cpp(183): error C2100: 非法的间接寻址
